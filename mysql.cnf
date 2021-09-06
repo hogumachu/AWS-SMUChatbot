@@ -1,0 +1,6 @@
+[client]
+database =  chatbotdb
+host = localhost
+user = root
+password = 4213
+default-character-set = utf8
