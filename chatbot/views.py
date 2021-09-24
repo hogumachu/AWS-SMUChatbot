@@ -2,7 +2,7 @@ from django.shortcuts import render
 import requests
 from bs4 import BeautifulSoup
 from django.http import JsonResponse
-from .models import Datetoevent, Eventtodate, Officeinfo
+# from .models import Datetoevent, Eventtodate, Officeinfo
 from ML import seq2seq
 from datetime import date
 import datetime
